@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome
 
 I am a Senior Lecturer at the University of Auckland. My main areas of expertise are financial law and the law of artificial intelligence. 
 
