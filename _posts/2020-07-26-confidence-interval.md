@@ -4,7 +4,7 @@ title: "Intuitive Interpretation of Confidence Interval"
 date: 2020-07-26
 ---
 
-## 26 July 2020 &nbsp; &nbsp; &nbsp; Personal website launched 
+## 26 July 2020 &nbsp; &nbsp; &nbsp; Intuitive Interpretation of Confidence Interval 
 
 Over the past few weeks, I have been trying to figure out how to interpret confidence intervals. Specifically, I wanted to understand why a statement like "there is a 95% probability that the population mean is within this calculated confidence interval" is wrong.  It seems that even some people who teach statistics for a living also have this question. The common explanation is that, once a sample is drawn and the CI is calculated, either it contains the population mean or it does not. One person on YouTube uses the ring toss game to explain. A 95% CI is similar to a ring with the size that will ring the post 95% of the time. Once the ring is tossed, either it catches the post or it does not. Hence you cannot say there is 0.95 probability that it has caught the post.  
 
