@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intuitive Interpretation of Confidence Interval"
+title: "Is Legal Research Useful"
 date: 2020-07-27
 ---
 
