@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Intuitive Interpretation of Confidence Interval"
-date: 2020-07-26
+date: 2020-07-27
 ---
 
-## 26 July 2020 &nbsp; &nbsp; &nbsp; Is Legal Research Useful?
+## 27 July 2020 &nbsp; &nbsp; &nbsp; Is Legal Research Useful?
 
 As an academic, a big part of my job (almost 50%) is to write research articles and get them published. The number of publications is the primary factor to get promoted. Over the past 6-7 years since I joined academia, I did manage to get a number of articles published in academic journals. 
 
