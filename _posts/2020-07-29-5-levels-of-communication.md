@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla, Elon Musk, and AI"
+title: "Five Levels of Communication"
 date: 2020-07-29
 ---
 
