@@ -8,5 +8,4 @@ date: 2020-08-03
 
 
 <img src='/images/Python.png' />
-#     alt=" "
-#     style="float: left; margin-right: 10px;" />
+
